@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.gabi.agenda2024.agenda2024","l":"Agenda2024"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.gabi.agenda2024.agenda2024","l":"Contacto"}];updateSearchResults();

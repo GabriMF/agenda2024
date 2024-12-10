@@ -1,0 +1,47 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'C:/Users/alu15d/Desktop/Módulos/Programación/Ejercicios/Ut3/Ejercicios Gabi/Agenda2024/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/alu15d/Desktop/Módulos/Programación/Ejercicios/Ut3/Ejercicios Gabi/Agenda2024/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Agenda2024 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Agenda2024 1.0-SNAPSHOT API'
+com.gabi.agenda2024.agenda2024
+C:\Users\alu15d\Desktop\Módulos\Programación\Ejercicios\Ut3\Ejercicios Gabi\Agenda2024\src\main\java = 1732017978252
+C:\Users\alu15d\Desktop\Módulos\Programación\Ejercicios\Ut3\Ejercicios Gabi\Agenda2024\target\reports\apidocs\allclasses-index.html = 1732621492346
+C:\Users\alu15d\Desktop\Módulos\Programación\Ejercicios\Ut3\Ejercicios Gabi\Agenda2024\target\reports\apidocs\allpackages-index.html = 1732621492349
+C:\Users\alu15d\Desktop\Módulos\Programación\Ejercicios\Ut3\Ejercicios Gabi\Agenda2024\target\reports\apidocs\copy.svg = 1732621492394
+C:\Users\alu15d\Desktop\Módulos\Programación\Ejercicios\Ut3\Ejercicios Gabi\Agenda2024\target\reports\apidocs\element-list = 1732621492287
+C:\Users\alu15d\Desktop\Módulos\Programación\Ejercicios\Ut3\Ejercicios Gabi\Agenda2024\target\reports\apidocs\help-doc.html = 1732621492387
+C:\Users\alu15d\Desktop\Módulos\Programación\Ejercicios\Ut3\Ejercicios Gabi\Agenda2024\target\reports\apidocs\index-all.html = 1732621492377
+C:\Users\alu15d\Desktop\Módulos\Programación\Ejercicios\Ut3\Ejercicios Gabi\Agenda2024\target\reports\apidocs\index.html = 1732621492382
+C:\Users\alu15d\Desktop\Módulos\Programación\Ejercicios\Ut3\Ejercicios Gabi\Agenda2024\target\reports\apidocs\link.svg = 1732621492396
+C:\Users\alu15d\Desktop\Módulos\Programación\Ejercicios\Ut3\Ejercicios Gabi\Agenda2024\target\reports\apidocs\member-search-index.js = 1732621492354
+C:\Users\alu15d\Desktop\Módulos\Programación\Ejercicios\Ut3\Ejercicios Gabi\Agenda2024\target\reports\apidocs\module-search-index.js = 1732621492350
+C:\Users\alu15d\Desktop\Módulos\Programación\Ejercicios\Ut3\Ejercicios Gabi\Agenda2024\target\reports\apidocs\overview-tree.html = 1732621492327
+C:\Users\alu15d\Desktop\Módulos\Programación\Ejercicios\Ut3\Ejercicios Gabi\Agenda2024\target\reports\apidocs\package-search-index.js = 1732621492352
+C:\Users\alu15d\Desktop\Módulos\Programación\Ejercicios\Ut3\Ejercicios Gabi\Agenda2024\target\reports\apidocs\script.js = 1732621492392
+C:\Users\alu15d\Desktop\Módulos\Programación\Ejercicios\Ut3\Ejercicios Gabi\Agenda2024\target\reports\apidocs\search-page.js = 1732621492402
+C:\Users\alu15d\Desktop\Módulos\Programación\Ejercicios\Ut3\Ejercicios Gabi\Agenda2024\target\reports\apidocs\search.html = 1732621492380
+C:\Users\alu15d\Desktop\Módulos\Programación\Ejercicios\Ut3\Ejercicios Gabi\Agenda2024\target\reports\apidocs\search.js = 1732621492399
+C:\Users\alu15d\Desktop\Módulos\Programación\Ejercicios\Ut3\Ejercicios Gabi\Agenda2024\target\reports\apidocs\stylesheet.css = 1732621492389
+C:\Users\alu15d\Desktop\Módulos\Programación\Ejercicios\Ut3\Ejercicios Gabi\Agenda2024\target\reports\apidocs\tag-search-index.js = 1732621492355
+C:\Users\alu15d\Desktop\Módulos\Programación\Ejercicios\Ut3\Ejercicios Gabi\Agenda2024\target\reports\apidocs\type-search-index.js = 1732621492353
